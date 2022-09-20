@@ -21,7 +21,7 @@ There are three folders:
 "./SCoNet_mtl_lasso_cross_1223". This is the SCoNet model described in the Section 4.3 in our paper. Here, 'lasso'=l1-norm penalty describe in Eq. (9) in our paper.
 
 
-### Runtime
+## Runtime
 Our methods are implemented using TensorFlow. For the training time, our models spend about 100 seconds per epoch using one Nvidia TITAN Xp GPU. As a reference, it is 70s for MLP and 90s for CSN models.
 
 ## See More... 
