@@ -9,8 +9,6 @@ The code for our "<strong>CoNet: Collaborative Cross Networks for Cross-Domain R
 
 ## Data & Model
 
-There are three folders:
-
 ### Data
 "<strong>./data</strong>". The cross-domain datasets split into Train/Valid. I put one example for each data file since the whole dataset consumes much storage. The original Amazon.com data can be downloaded [here](http://snap.stanford.edu/data/web-Amazon.html) and the other Cheetah Mobile cannot be publicly available due to privacy (send email to us).
 
