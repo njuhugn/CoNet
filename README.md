@@ -7,7 +7,7 @@ The code for our "<strong>CoNet: Collaborative Cross Networks for Cross-Domain R
 ![](/image/TransDL.png)
 
 
-## Readme
+## Data & Model
 
 There are three folders:
 
