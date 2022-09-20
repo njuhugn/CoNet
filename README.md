@@ -24,7 +24,7 @@ Our methods are implemented using TensorFlow. For the training time, our models 
 
 ## Acknowledgement
 
-Please cite the following paper if you use our code.
+Please cite the following paper if our code+paper helps your research.
 
 ```
 @@inproceedings{hu2018conet,
