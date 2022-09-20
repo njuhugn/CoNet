@@ -22,6 +22,20 @@ The code for our "<strong>CoNet: Collaborative Cross Networks for Cross-Domain R
 ## Runtime
 Our methods are implemented using TensorFlow. For the training time, our models spend about 100 seconds per epoch using one Nvidia TITAN Xp GPU. As a reference, it is 70s for MLP and 90s for CSN models.
 
+## Acknowledgement
+
+Please cite the following paper if you use our code.
+
+```
+@@inproceedings{hu2018conet,
+  title={Conet: Collaborative cross networks for cross-domain recommendation},
+  author={Hu, Guangneng and Zhang, Yu and Yang, Qiang},
+  booktitle={Proceedings of the 27th ACM international conference on information and knowledge management},
+  pages={667--676},
+  year={2018}
+}
+```
+
 ## See More... 
 
 ...Our [project page](https://njuhugn.github.io/research-conet.html)
