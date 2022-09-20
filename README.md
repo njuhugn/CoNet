@@ -1,6 +1,6 @@
 # CoNet
 
-The code for our "CoNet: Collaborative Cross Networks for Cross-Domain Recommendation" paper published at CIKM 2018
+The code for our "CoNet: Collaborative Cross Networks for Cross-Domain Recommendation" paper published at CIKM 2018 
 
 
 ## Deep Transfer Learning Framework 
@@ -8,4 +8,7 @@ The code for our "CoNet: Collaborative Cross Networks for Cross-Domain Recommend
 
 
 
-see more at [proj. page](https://njuhugn.github.io/research-conet.html)
+
+## See More... 
+
+Our [project page](https://njuhugn.github.io/research-conet.html)
