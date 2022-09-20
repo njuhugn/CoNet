@@ -22,6 +22,9 @@ The code for our "<strong>CoNet: Collaborative Cross Networks for Cross-Domain R
 ## Runtime
 Our methods are implemented using TensorFlow. For the training time, our models spend about 100 seconds per epoch using one Nvidia TITAN Xp GPU. As a reference, it is 70s for MLP and 90s for CSN models.
 
+## Other Implementation
+Our paper is also implemented in the [RecBole-CDR](https://github.com/RUCAIBox/RecBole-CDR) recommendation library.
+
 ## Acknowledgement
 
 Please cite the following paper if our code+paper helps your research.
