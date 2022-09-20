@@ -3,7 +3,7 @@
 The code for our "<strong>CoNet: Collaborative Cross Networks for Cross-Domain Recommendation</strong>" paper published at [CIKM 2018](https://njuhugn.github.io/research-conet.html)
 
 
-## Deep Transfer Learning Framework 
+## Deep TL Framework 
 ![](/image/TransDL.png)
 
 
