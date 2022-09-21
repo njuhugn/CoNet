@@ -27,7 +27,7 @@ Our paper is also implemented in the [RecBole-CDR](https://github.com/RUCAIBox/R
 
 ## Acknowledgement
 
-Please cite the following paper if our code+paper helps your research.
+Please cite the following paper if our code+paper helps your research. [arXiv](https://arxiv.org/abs/1804.06769)
 
 ```
 @inproceedings{hu2018conet,
