@@ -30,7 +30,7 @@ Our paper is also implemented in the [RecBole-CDR](https://github.com/RUCAIBox/R
 Please cite the following paper if our code+paper helps your research.
 
 ```
-@@inproceedings{hu2018conet,
+@inproceedings{hu2018conet,
   title={Conet: Collaborative cross networks for cross-domain recommendation},
   author={Hu, Guangneng and Zhang, Yu and Yang, Qiang},
   booktitle={Proceedings of the 27th ACM international conference on information and knowledge management},
